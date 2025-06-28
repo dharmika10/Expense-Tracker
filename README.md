@@ -31,4 +31,5 @@ Your financial data is automatically saved to the web browser's local storage, a
 
 #Technologies Used
 JavaScript: The core programming language for creating dynamic and interactive features.
+
 HTML: The markup language for structuring the web application.
